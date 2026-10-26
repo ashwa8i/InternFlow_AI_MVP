@@ -1,0 +1,8 @@
+Flask>=3.0
+SQLAlchemy>=2.0
+python-dotenv>=1.0
+anthropic>=0.30
+google-api-python-client>=2.140
+google-auth>=2.35
+google-auth-oauthlib>=1.2
+pytest>=8.0
